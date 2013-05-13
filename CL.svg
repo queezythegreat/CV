@@ -89,10 +89,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="517.70371"
-     inkscape:cy="347.63357"
+     inkscape:cx="506.40054"
+     inkscape:cy="372.04724"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6675"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="979"
@@ -118,6 +118,53 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.2677)">
+    <g
+       id="g6675">
+      <path
+         sodipodi:nodetypes="cccc"
+         transform="translate(0,308.2677)"
+         inkscape:connector-curvature="0"
+         id="path6651"
+         d="m 57,701.59448 496,0 0,-674.499998 457,0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:12,1;stroke-dashoffset:0" />
+      <image
+         width="10"
+         height="10"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAABHNCSVQICAgIfAhkiAAAANRJREFU
+GJWFzzFqhEAYxfHPyfDB7gWmHDAIdnbCFB7CC3gUiSfQA1h4AkmVWrDZM8iAjdMGbcRqXopki4W4
++4fX/ZpHAOC9R13XyLIMYRgiiiLkeY5xHPFXT957FEUBKSWI6GFKKXRd9wubpvkX3ae1hrX2623f
+9495numsbdtoXVcSy7KconvOuYtg5peQmb2I4/gpCoKAkiRZaRgGKKVOzxhjcBzHJwFA27bQWj8A
+IQSMMZimCQD6AEBPRGStvVRV9e6cu0opfZqm32VZzswMIrr9APLDh7h0WEJYAAAAAElFTkSuQmCC
+
+"
+         id="image6661"
+         x="53"
+         y="1004.3622" />
+      <image
+         width="10"
+         height="10"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAABHNCSVQICAgIfAhkiAAAANRJREFU
+GJWFzzFqhEAYxfHPyfDB7gWmHDAIdnbCFB7CC3gUiSfQA1h4AkmVWrDZM8iAjdMGbcRqXopki4W4
++4fX/ZpHAOC9R13XyLIMYRgiiiLkeY5xHPFXT957FEUBKSWI6GFKKXRd9wubpvkX3ae1hrX2623f
+9495numsbdtoXVcSy7KconvOuYtg5peQmb2I4/gpCoKAkiRZaRgGKKVOzxhjcBzHJwFA27bQWj8A
+IQSMMZimCQD6AEBPRGStvVRV9e6cu0opfZqm32VZzswMIrr9APLDh7h0WEJYAAAAAElFTkSuQmCC
+
+"
+         id="image6672"
+         x="1004"
+         y="331.36218" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Averia;-inkscape-font-specification:Averia Bold"
+         x="713"
+         y="1036.3622"
+         id="text6708"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan6710"
+           x="713"
+           y="1036.3622">FLIP OVER to CV</tspan></text>
+    </g>
     <path
        style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1.20656300000000010;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="M 570.09375 37.6875 L 570.09375 440.09375 L 642 440.09375 L 642 563.09375 L 570.09375 563.09375 L 570.09375 696.5 L 991.90625 696.5 L 991.90625 278.59375 L 794 278.59375 L 794 155.59375 L 991.90625 155.59375 L 991.90625 37.6875 L 570.09375 37.6875 z "
@@ -190,16 +237,26 @@
            id="use6021"
            width="1052.3622"
            height="744.09448" /></flowRegion><flowPara
-         id="flowPara6023">Let me tell you a little bit about my self.</flowPara><flowPara
+         id="flowPara6023"
+         style="font-weight:bold;-inkscape-font-specification:Averia Bold"><flowSpan
+   style="font-size:16.36992645px;font-weight:bold;-inkscape-font-specification:Averia Bold"
+   id="flowSpan6649">A little bit about my self</flowSpan>.</flowPara><flowPara
          id="flowPara6025" /><flowPara
          id="flowPara6027">One of  the driving forces in my life is the the thirst for  knowledge and new skills, especially if there is a challenge. Craftsmanship, precision and doing something right is a passion.</flowPara><flowPara
          id="flowPara6102" /><flowPara
-         id="flowPara6104">These traits fuel my desire to go further, beyond my current abilities, to discovery new and interesting things about our world and the boundaries of what is possible. If something interests me, I strive to get as much information about the subject as I can.</flowPara><flowPara
+         id="flowPara6104">These traits fuel my desire to go further, beyond my current abilities. </flowPara><flowPara
          id="flowPara6106" /><flowPara
-         id="flowPara6108">Over the years, even from a little age, I have been fascinated how things work, and that hunger sparked interest in varying fields, such as computer science and electronics, one thing led to another and over the years I have gathered a toolkit of knowledge and experience.</flowPara><flowPara
+         id="flowPara6108">Since a very early age I have been fascinated how things work, and that hunger sparked interest in varying fields, such as computer science and electronics, and over the years I have gathered a toolkit of knowledge and experience.</flowPara><flowPara
+         id="flowPara6639" /><flowPara
+         id="flowPara6641">Collaboration with other people, as well as teaching and helping others are one of my strong suites. I am strong believer in Open Source software, and agile methodologies.</flowPara><flowPara
+         id="flowPara6645" /><flowPara
+         id="flowPara6643">Examples of my work is available at <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Averia Bold"
+   id="flowSpan6647">https://github.com/queezythegrat/</flowSpan>, which should demonstrate some of my skills. </flowPara><flowPara
+         id="flowPara6635" /><flowPara
          id="flowPara6110">Art, design and creativity is also ingrained in me, simplicity is better than complexity, beauty is better than ugly, and my work tries convey that. Nature and science is built on simple concepts layered on top of each other, and I strive to mimic that simplicity.</flowPara><flowPara
-         id="flowPara6619">Collaboration with other people, as well as teaching and helping others are one of my strong suites. I am strong believer in Open Source software, and agile methodologies.</flowPara><flowPara
-         id="flowPara6631">Examples of my work is available at https://github.com/queezythegrat/, which should demonstrate some of my skills. </flowPara><flowPara
+         id="flowPara6633" /><flowPara
+         id="flowPara6631" /><flowPara
          id="flowPara6623" /><flowPara
          id="flowPara6625" /><flowPara
          id="flowPara6031">HOW DO MY SKILLS FIT THE POSITION...</flowPara><flowPara
