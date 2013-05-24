@@ -111,10 +111,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="366.54497"
-     inkscape:cy="350.24388"
+     inkscape:cx="492.46267"
+     inkscape:cy="389.78831"
      inkscape:document-units="px"
-     inkscape:current-layer="a4518"
+     inkscape:current-layer="g5841"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="979"
@@ -833,35 +833,39 @@
        id="g5841"
        transform="translate(-64.39046,-425.75586)">
       <rect
-         y="879.36218"
-         x="928"
-         height="58"
-         width="118"
+         y="879.62354"
+         x="928.26135"
+         height="74.477341"
+         width="117.47734"
          id="rect5835"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#c9beb7;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          sodipodi:linespacing="125%"
          id="text5765"
-         y="891.62689"
+         y="893.62689"
          x="939.39514"
          style="font-size:10.59079075px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="891.62689"
+           y="893.62689"
            x="939.39514"
            id="tspan5767"
            sodipodi:role="line">Electronics</tspan><tspan
            id="tspan5769"
-           y="904.86536"
+           y="906.86536"
            x="939.39514"
            sodipodi:role="line">3D Modeling</tspan><tspan
            id="tspan5771"
-           y="918.10388"
+           y="920.10388"
            x="939.39514"
            sodipodi:role="line">Reverse Engineering</tspan><tspan
            id="tspan5773"
-           y="931.34235"
+           y="933.34235"
            x="939.39514"
-           sodipodi:role="line">Rock Climbing</tspan></text>
+           sodipodi:role="line">Rock Climbing</tspan><tspan
+           y="946.58087"
+           x="939.39514"
+           sodipodi:role="line"
+           id="tspan4568">Hardware Hacking</tspan></text>
       <text
          transform="matrix(0.8387905,0.54445431,-0.54445431,0.8387905,0,0)"
          sodipodi:linespacing="125%"
@@ -1649,10 +1653,10 @@
            id="g4544"
            transform="translate(-32.568546,313.79694)">
           <rect
-             y="415.35431"
-             x="503.45441"
-             height="311.15762"
-             width="559.83789"
+             y="415.43848"
+             x="503.53857"
+             height="328.47928"
+             width="567.16522"
              id="rect4042"
              style="color:#000000;fill:#e8eff7;fill-opacity:1;fill-rule:nonzero;stroke:#dee6f0;stroke-width:4.95431614;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
           <text
@@ -1746,34 +1750,38 @@
                y="681.12866"
                x="514.01093"
                sodipodi:role="line">        print 'I can solve the problem with:', language</tspan><tspan
-               id="tspan4036"
                y="697.37866"
+               x="514.01093"
+               sodipodi:role="line"
+               id="tspan4496">        break</tspan><tspan
+               id="tspan4036"
+               y="713.62866"
                x="514.01093"
                sodipodi:role="line">else:</tspan><tspan
                id="tspan4038"
-               y="713.62866"
+               y="729.87866"
                x="514.01093"
                sodipodi:role="line">    print 'No language available, I need to learn something new.'</tspan><tspan
                id="tspan4040"
-               y="729.87866"
+               y="746.12866"
                x="514.01093"
                sodipodi:role="line" /></text>
           <text
              xml:space="preserve"
              style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#75797d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="-715.45538"
-             y="1060.1168"
+             x="-732.94556"
+             y="1067.6124"
              id="text5545-0"
              sodipodi:linespacing="125%"
              transform="matrix(0,-1,1,0,0,0)"><tspan
                sodipodi:role="line"
                id="tspan5547-7"
-               x="-715.45538"
-               y="1060.1168">Languages</tspan></text>
+               x="-732.94556"
+               y="1067.6124">Languages</tspan></text>
         </g>
         <g
            id="g4688"
-           transform="matrix(0.16133086,0,0,0.16133086,395.34466,952.9179)">
+           transform="matrix(0.16133086,0,0,0.16133086,395.34466,965.41075)">
           <path
              id="path4660"
              d="m 497.851,495.339 c 0,34.426 -79.74,62.331 -178.093,62.331 -98.369,0 -178.11,-27.905 -178.11,-62.331 0,-34.427 79.738,-62.338 178.11,-62.338 98.352,0 178.093,27.916 178.093,62.338 z"
@@ -1835,6 +1843,30 @@
              inkscape:connector-curvature="0"
              style="fill:#9cdaf1" />
         </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer2"
+         inkscape:label="outline"
+         style="display:none">
+        <path
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.00000006, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 42,28.094482 504.18,0"
+           id="path4516"
+           inkscape:connector-curvature="0"
+           transform="matrix(1.2492852,0,0,1.2492852,-219.12176,191.16521)" />
+        <path
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.00000006, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 526.18,14.094482 0,714.999998"
+           id="path4518"
+           inkscape:connector-curvature="0"
+           transform="matrix(1.2492852,0,0,1.2492852,-219.12176,191.16521)" />
+        <path
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.00000006, 1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 506.18,711.09448 504.18,0"
+           id="path4520"
+           inkscape:connector-curvature="0"
+           transform="matrix(1.2492852,0,0,1.2492852,-219.12176,191.16521)" />
       </g>
       <g
          transform="matrix(0.53205128,0,0,0.53205128,229.17307,265.94512)"
